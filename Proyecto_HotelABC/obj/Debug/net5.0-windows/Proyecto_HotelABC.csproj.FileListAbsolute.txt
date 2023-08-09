@@ -1,0 +1,602 @@
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.AssemblyReference.cache
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.g.cs
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.g.cs
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.g.cs
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.g.cs
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.g.cs
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.g.cs
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.g.cs
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.cache
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.lref
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.exe
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.deps.json
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.json
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.dev.json
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Renci.SshNet.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.baml
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.baml
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.baml
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.baml
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.baml
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.baml
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.baml
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.g.resources
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfoInputs.cache
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfo.cs
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CoreCompileInputs.cache
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CopyComplete
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\refint\Proyecto_HotelABC.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.genruntimeconfig.cache
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\ref\Proyecto_HotelABC.dll
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.g.cs
+C:\Users\domin\OneDrive\Documentos\GitHub\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.baml
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.exe
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.deps.json
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.json
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.dev.json
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Renci.SshNet.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.AssemblyReference.cache
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.g.cs
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.g.cs
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.g.cs
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.g.cs
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.g.cs
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.g.cs
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.g.cs
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.g.cs
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.cache
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.lref
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.baml
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.baml
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.baml
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.baml
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.baml
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.baml
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.baml
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.baml
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.g.resources
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfoInputs.cache
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfo.cs
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CoreCompileInputs.cache
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CopyComplete
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\refint\Proyecto_HotelABC.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.genruntimeconfig.cache
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\ref\Proyecto_HotelABC.dll
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewCreate.g.cs
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewMenu.g.cs
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewCreate.baml
+C:\Users\serna\Desktop\Proyecto_HotelABCfinal\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewMenu.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.exe
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.deps.json
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.json
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.dev.json
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Renci.SshNet.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.AssemblyReference.cache
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewCreate.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewMenu.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.cache
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.lref
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewCreate.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewMenu.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.g.resources
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfoInputs.cache
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfo.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CoreCompileInputs.cache
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CopyComplete
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\refint\Proyecto_HotelABC.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.genruntimeconfig.cache
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\ref\Proyecto_HotelABC.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\roomService.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\roomService.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageServices.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageServices.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageRoomServices.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC (1)\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageRoomServices.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.exe
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.deps.json
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.json
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.dev.json
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Renci.SshNet.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.AssemblyReference.cache
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageServices.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\roomService.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageRoomServices.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewCreate.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewMenu.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.cache
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.lref
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageServices.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\roomService.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageRoomServices.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewCreate.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewMenu.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.g.resources
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfoInputs.cache
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfo.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CoreCompileInputs.cache
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CopyComplete
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\refint\Proyecto_HotelABC.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.genruntimeconfig.cache
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\ref\Proyecto_HotelABC.dll
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\Manager_Bookings.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\Manager_Bookings.baml
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\Payment_View.g.cs
+C:\Users\domin\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\Payment_View.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.exe
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.deps.json
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.json
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.dev.json
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Renci.SshNet.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.AssemblyReference.cache
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageServices.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\Payment_View.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\roomService.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageRoomServices.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\Manager_Bookings.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewCreate.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewMenu.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.cache
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.lref
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageServices.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\Payment_View.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\roomService.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageRoomServices.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\Manager_Bookings.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewCreate.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewMenu.baml
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.g.resources
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfoInputs.cache
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfo.cs
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CopyComplete
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\refint\Proyecto_HotelABC.dll
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.genruntimeconfig.cache
+C:\Users\aleja\Downloads\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\ref\Proyecto_HotelABC.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.exe
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.deps.json
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.json
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.dev.json
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Renci.SshNet.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.AssemblyReference.cache
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageServices.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\Payment_View.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\roomService.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageRoomServices.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\Manager_Bookings.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewCreate.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewMenu.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.cache
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.lref
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageServices.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\Payment_View.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\roomService.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageRoomServices.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\Manager_Bookings.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewCreate.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewMenu.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.g.resources
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfoInputs.cache
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfo.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CoreCompileInputs.cache
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CopyComplete
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\refint\Proyecto_HotelABC.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.genruntimeconfig.cache
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC DOM\Proyecto_HotelABC\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\ref\Proyecto_HotelABC.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.exe
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.deps.json
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.json
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.dev.json
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Renci.SshNet.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.AssemblyReference.cache
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageServices.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\Payment_View.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\roomService.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageRoomServices.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\Manager_Bookings.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewCreate.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewMenu.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.cache
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.lref
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageServices.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\Payment_View.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\roomService.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageRoomServices.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\Manager_Bookings.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewCreate.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewMenu.baml
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.g.resources
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfoInputs.cache
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfo.cs
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CopyComplete
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\refint\Proyecto_HotelABC.dll
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.genruntimeconfig.cache
+C:\Users\Leonardo Rdgz\Downloads\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\ref\Proyecto_HotelABC.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.AssemblyReference.cache
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageServices.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\Payment_View.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\roomService.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageRoomServices.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\Manager_Bookings.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\PaymentViews\PaymentWindow.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\PaymentViews\ViewPayments.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewCreate.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewMenu.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.cache
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC_MarkupCompile.lref
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\refint\Proyecto_HotelABC.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.exe
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.deps.json
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.json
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.runtimeconfig.dev.json
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Proyecto_HotelABC.pdb
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Renci.SshNet.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\bin\Debug\net5.0-windows\Stripe.net.dll
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\EmployeeMenu.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageBookings.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageGuest.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\EmployeeViews\ManageServices.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\BookingView.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\CheckIn.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\GuestMenu.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\Payment_View.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\GuestViews\roomService.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageCounts.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManagerMenu.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\ManageRoomServices.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ManagerViews\Manager_Bookings.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\PaymentViews\PaymentWindow.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\PaymentViews\ViewPayments.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewCreate.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Views\ReviewViews\ReviewMenu.baml
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.g.resources
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfoInputs.cache
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.AssemblyInfo.cs
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CoreCompileInputs.cache
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.csproj.CopyComplete
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\Proyecto_HotelABC.genruntimeconfig.cache
+C:\Users\valde\OneDrive\Escritorio\Proyecto_HotelABC\Proyecto_HotelABC\obj\Debug\net5.0-windows\ref\Proyecto_HotelABC.dll

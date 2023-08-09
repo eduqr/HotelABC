@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\calendario.png" />
+    <None Remove="Images\flecha-hacia-atras.png" />
+    <None Remove="Images\gente-junta.png" />
+    <None Remove="Images\gestion-de-carpetas.png" />
+    <None Remove="Images\habitacion.png" />
+    <None Remove="Images\HotelLogin.jpg" />
+    <None Remove="Images\invitados.png" />
+    <None Remove="Images\key.png" />
+    <None Remove="Images\logo.png" />
+    <None Remove="Images\resenas.png" />
+    <None Remove="Images\reserva.png" />
+    <None Remove="Images\servicio-al-cliente.png" />
+    <None Remove="Images\user.png" />
+    <None Remove="Images\usuario.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="MySql.EntityFrameworkCore" Version="5.0.0" />
+    <PackageReference Include="Stripe.net" Version="41.27.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\calendario.png" />
+    <Resource Include="Images\flecha-hacia-atras.png" />
+    <Resource Include="Images\gente-junta.png" />
+    <Resource Include="Images\gestion-de-carpetas.png" />
+    <Resource Include="Images\habitacion.png" />
+    <Resource Include="Images\HotelLogin.jpg" />
+    <Resource Include="Images\invitados.png" />
+    <Resource Include="Images\key.png" />
+    <Resource Include="Images\logo.png" />
+    <Resource Include="Images\resenas.png" />
+    <Resource Include="Images\reserva.png" />
+    <Resource Include="Images\servicio-al-cliente.png" />
+    <Resource Include="Images\user.png" />
+    <Resource Include="Images\usuario.png" />
+  </ItemGroup>
+
+</Project>

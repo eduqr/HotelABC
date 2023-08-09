@@ -1,0 +1,211 @@
+﻿<Window x:Class="Proyecto_HotelABC.Views.ManagerViews.Manager_Bookings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyecto_HotelABC.Views.ManagerViews"
+        mc:Ignorable="d"
+        Title="Manager_Bookings" Height="500" Width="800">
+    <Window.Resources>
+        <Style x:Key="MainButtonStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontFamily" Value="Montserrat"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Padding" Value="10.5"/>
+            <Setter Property="Margin" Value="7.5"/>
+            <Setter Property="MinWidth" Value="108"/>
+            <Setter Property="MinHeight" Value="30"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Offset="0.1" Color="#638A2E"/>
+
+                        <GradientStop Offset="0.8" Color="#638A2E"/>
+
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="ButtonBorder" Background="{TemplateBinding Background}"
+                            CornerRadius="10" SnapsToDevicePixels="True">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <!-- Efecto al pasar el mouse -->
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="ButtonBorder" Property="Background">
+                                    <Setter.Value>
+                                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                            <GradientStop Offset="0" Color="#537624 "/>
+                                            <GradientStop Offset="1" Color="#537624 "/>
+                                        </LinearGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                            <!-- Efecto al hacer clic -->
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="ButtonBorder" Property="Background">
+                                    <Setter.Value>
+                                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                            <GradientStop Offset="0" Color="#537624"/>
+                                            <GradientStop Offset="1" Color="#537624"/>
+                                        </LinearGradientBrush>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ColoredDataGridStyle" TargetType="DataGrid">
+            <!-- Personaliza aquí los colores que desees -->
+            <Setter Property="Background" Value="#CDE3B1"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="RowBackground" Value="#E6F7D0"/>
+            <Setter Property="AlternatingRowBackground" Value="LightGray"/>
+            <Setter Property="BorderBrush" Value="White" />
+            <!-- Agrega más setters para personalizar otros aspectos del DataGrid -->
+        </Style>
+
+        <Style x:Key="CustomDataGridHeaderStyle" TargetType="DataGridColumnHeader">
+            <Setter Property="Background" Value="#859372 "/>
+            <!-- Personaliza aquí el color de fondo del encabezado -->
+            <Setter Property="Foreground" Value="White"/>
+            <!-- Personaliza aquí el color del texto del encabezado -->
+            <Setter Property="BorderBrush" Value="#E6F7D0" />
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0,0,0,-84">
+        <DataGrid x:Name="Bookingstable" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="True" ColumnWidth="*" IsSynchronizedWithCurrentItem="True" Margin="178,58,10,132" ItemsSource="{Binding Booking }" Style="{StaticResource ColoredDataGridStyle}" ColumnHeaderStyle="{StaticResource CustomDataGridHeaderStyle}" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Nombre" Binding="{Binding Name}" />
+                <DataGridTextColumn Header="Apellido" Binding="{Binding LastName}" />
+                <DataGridTextColumn Header="Correo" Binding="{Binding Mail}" />
+                <DataGridTextColumn Header="Suite" Binding="{Binding Suite}" />
+                <DataGridTextColumn Header="Dias" Binding="{Binding Days}" />
+                <DataGridTextColumn Header="Cantidad" Binding="{Binding AmountPerson}" />
+                <DataGridTemplateColumn Header="Editar">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Editar" Background="#919E5F" Click="BTN_EditItem_Click" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Eliminar">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Eliminar" Background="#C1CCB2" Click="BTN_Delete_Click"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Mail" HorizontalAlignment="Left" Height="24" Margin="2,23,0,0" VerticalAlignment="Top" Width="176" FontFamily="Segoe UI Semibold"/>
+        <TextBox x:Name="TXT_Mail"
+            FontSize="13"
+            FontWeight="Medium"
+            FontFamily="Montserrat"
+            Foreground="Black"
+            CaretBrush="White"
+            BorderBrush="Black"
+            BorderThickness="0,0,0,2"
+            Height="28"
+            VerticalContentAlignment="Center"
+            Margin="10,52,645,488"
+            Padding="20,0,0,0">
+            <TextBox.Background>
+                <ImageBrush ImageSource="/Images/user.png"
+                    Stretch="None"
+                    AlignmentX="Left"/>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox x:Name="TXT_Name"           
+            FontSize="13"
+            FontWeight="Medium"
+            FontFamily="Montserrat"                            
+            Foreground="Black"
+            CaretBrush="White"
+            BorderBrush="Black"
+            BorderThickness="0,0,0,2"
+            Height="28"
+            VerticalContentAlignment="Center"
+            Margin="9,114,646,426"
+            Padding="20,0,0,0">
+            <TextBox.Background>
+                <ImageBrush ImageSource="/Images/user.png"
+                    Stretch="None"
+                    AlignmentX="Left"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label Content="Nombre" HorizontalAlignment="Left" Height="24" Margin="8,85,0,0" VerticalAlignment="Top" Width="176" FontFamily="Segoe UI Semibold"/>
+        <TextBox x:Name="TXT_Lastname"
+            FontSize="13"
+            FontWeight="Medium"
+            FontFamily="Montserrat"                            
+            Foreground="Black"
+            CaretBrush="White"
+            BorderBrush="Black"
+            BorderThickness="0,0,0,2"
+            Height="28"
+            VerticalContentAlignment="Center"
+            Margin="10,176,645,364"
+            Padding="20,0,0,0">
+            <TextBox.Background>
+                <ImageBrush ImageSource="/Images/user.png"
+                    Stretch="None"
+                    AlignmentX="Left"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label Content="Apellido" HorizontalAlignment="Left" Height="24" Margin="9,147,0,0" VerticalAlignment="Top" Width="176" FontFamily="Segoe UI Semibold" RenderTransformOrigin="0.535,2.494"/>
+        <Label Content="Dias a reservar" HorizontalAlignment="Left" Height="24" Margin="8,209,0,0" VerticalAlignment="Top" Width="176" FontFamily="Segoe UI Semibold"/>
+        <TextBox x:Name="TXT_Days"
+            FontSize="13"
+            FontWeight="Medium"
+            FontFamily="Montserrat"                            
+            Foreground="Black"
+            CaretBrush="White"
+            BorderBrush="Black"
+            BorderThickness="0,0,0,2"
+            Height="28"
+            VerticalContentAlignment="Center"
+            Margin="8,238,647,302"
+            Padding="20,0,0,0">
+            <TextBox.Background>
+                <ImageBrush ImageSource="/Images/user.png"
+                    Stretch="None"
+                    AlignmentX="Left"/>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox x:Name="TXT_Amount"
+            FontSize="13"
+            FontWeight="Medium"
+            FontFamily="Montserrat"                            
+            Foreground="Black"
+            CaretBrush="White"
+            BorderBrush="Black"
+            BorderThickness="0,0,0,2"
+            Height="28"
+            VerticalContentAlignment="Center"
+            Margin="9,295,646,245"
+            Padding="20,0,0,0">
+            <TextBox.Background>
+                <ImageBrush ImageSource="/Images/user.png"
+                    Stretch="None"
+                    AlignmentX="Left"/>
+            </TextBox.Background>
+        </TextBox>
+        <Label Content="Cantidad de personas" HorizontalAlignment="Left" Height="24" Margin="8,271,0,0" VerticalAlignment="Top" Width="176" FontFamily="Segoe UI Semibold" RenderTransformOrigin="0.499,1.824"/>
+        <Button x:Name="BTN_Save" Content="Reservar"  Style="{StaticResource MainButtonStyle}" HorizontalAlignment="Left" Height="40" Margin="23,395,0,0" VerticalAlignment="Top" Width="135" Click="Button_Reserve"  />
+        <ComboBox x:Name="SelectSuites" HorizontalAlignment="Left" Height="26" Margin="22,357,0,0" VerticalAlignment="Top" Width="136"/>
+        <Button x:Name="BTN_Clear" Content="Limpiar"  Style="{StaticResource MainButtonStyle}" HorizontalAlignment="Left" Height="39" Margin="22,440,0,0" VerticalAlignment="Top" Width="133" Click="Button_Clear" RenderTransformOrigin="0.434,0.516"  />
+        <Label Content="Suite" HorizontalAlignment="Left" Height="34" Margin="34,323,0,0" VerticalAlignment="Top" Width="112" FontFamily="Segoe UI Semibold" HorizontalContentAlignment="Center" FontSize="18"/>
+        <Button x:Name="BTN_GoBack"  HorizontalAlignment="Left" Height="24" Margin="715,17,0,0" VerticalAlignment="Top" Width="61" Click="BTN_GoBack_Click" Background="{x:Null}" BorderThickness="0,0,0,1">
+            <Image Source="/Images/flecha-hacia-atras.png" />
+        </Button>
+    </Grid>
+</Window>
